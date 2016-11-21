@@ -1,1 +1,51 @@
-/* Inserta tu codigo aqui */
+/*------------------------------------------------------------HEADER*/
+
+
+/*--------------------------------------------------------------HERO*/
+.hero {
+	height: 400px;
+	background-image: url("../img/dance_7.jpg");
+	background-size: 130%;
+	background-position: center left;
+	min-height: 300px;
+	color: white;
+	text-align: center; }
+
+.hero .us {
+	background: rgba(0, 0, 0, 0.4);
+	width: 38%;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 90px;
+	padding: 20px 20px 40px 20px; }
+
+.hero .us h2 {
+	padding-bottom: 20px;
+}
+
+
+/*-----------------------------------------------------------PILARES*/
+
+
+
+
+
+
+/*------------------------------------------------------INSTRUCTORES*/
+.img-responsive {
+	width: 100%; }
+
+
+
+
+/*-------------------------------------------------FRASE INSPIRADORA*/
+
+
+
+
+
+
+
+
+/*------------------------------------------------------------FOOTER*/
