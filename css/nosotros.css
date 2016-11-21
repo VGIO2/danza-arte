@@ -1,5 +1,25 @@
 /*------------------------------------------------------------HEADER*/
-
+body{
+    font-family: 'Montserrat';
+}
+header{
+    text-align: center;
+}
+header h1{
+    color: #20274b;
+    font-weight: bold;
+}
+header ul{
+    list-style: none;
+}
+header ul li{
+    display: inline-block;
+    padding: 5px 70px 5px 2px; 
+}
+header ul li a{
+    color: #e6e4e4;
+    font-size: 16px;
+}
 
 /*--------------------------------------------------------------HERO*/
 .hero {
@@ -21,25 +41,63 @@
 	padding: 20px 20px 40px 20px; }
 
 .hero .us h2 {
-	padding-bottom: 20px;
-}
+	padding-bottom: 20px; }
 
+.hero .us p {
+	color: #9e9d9b;
+	font-size: 15px; }
 
 /*-----------------------------------------------------------PILARES*/
+.container0 {
+	height: 320px;
+	background-image: url("../img/cubes.png"); }
 
+.container0 h3 {
+	color: #999C9E;
+	margin-left: 125px;
+	padding-top: 70px; 
+	padding-bottom: 10px; }
 
+.container0 p {
+	text-align: center;
+	color: #C6C6C6;
+	border-top: 1px solid #999C9E;
+	padding-bottom: 30px;
+	padding-top: 20px;
+	margin-left: 30px;
+	width: 70%; }
 
-
+.pilar {
+	margin: 0 120px 0 120px; }
 
 
 /*------------------------------------------------------INSTRUCTORES*/
+.container1 {
+	width: 80% ;
+	margin-right: auto;
+	margin-left: auto; }
+
+.instructores h3 {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 60px;
+	padding-bottom: 60px; }
+
 .img-responsive {
 	width: 100%; }
 
-
+.instructores h4 {
+	padding-top: 10px;
+}
 
 
 /*-------------------------------------------------FRASE INSPIRADORA*/
+
+.Frase {
+	width: 100%;
+	height: 250px;
+	background-image: url("../img/cubes.png"); }
+
 
 
 
