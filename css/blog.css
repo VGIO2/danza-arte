@@ -1,26 +1,4 @@
 
-/*------------------------------------------------------------HEADER*/
-body{
-    font-family: 'Montserrat';
-}
-header{
-    text-align: center;
-}
-header h1{
-    color: #20274b;
-    font-weight: bold;
-}
-header ul{
-    list-style: none;
-}
-header ul li{
-    display: inline-block;
-    padding: 5px 70px 5px 2px; 
-}
-header ul li a{
-    color: #e6e4e4;
-    font-size: 16px;
-}
 /*---------------------------------------------------------BLOG TITLE*/
 section {
 	background: #f4f4f4;
