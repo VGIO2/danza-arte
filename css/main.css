@@ -9,6 +9,7 @@ header{
 header h1{
     color: #20274b;
     font-weight: bold;
+    margin: 5px 5px;
 }
 header ul{
     list-style: none;
@@ -21,7 +22,10 @@ header ul li a{
     color: #e6e4e4;
     font-size: 16px;
 }
-
+header .lista:hover{
+    background-color: #eaf0f4;
+    padding: 10px;
+}
 /*---------------------------------------------------------------------------------------HERO-----*/
 .hero{
     background-image: url(../img/dance_1.jpg);
@@ -39,7 +43,7 @@ header ul li a{
 }
 .hero button{
     color:#f4f4f4;
-    background: #020e1e;
+    background: #082750;
 }
 
 /*---------------------------------------------------------------------------------------CONTENIDO-----*/
@@ -63,6 +67,9 @@ header ul li a{
     background-color: #1a2952;
     color: #f4f4f4;
     border-radius: 8px;      
+}
+.contenido button:hover{
+    background: 
 }
 /*------------------------------------------------------------------------------------------INSTRUCTORES--*/
 .instructores, .hombre, .mujer{
