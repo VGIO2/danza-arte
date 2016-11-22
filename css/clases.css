@@ -33,7 +33,7 @@ header ul{
     padding: 150px 15px;
     width: auto;
     height: 200px;
-    margin: 20px;
+    margin: 20px ;
     
 }
 .clase1{
@@ -84,3 +84,26 @@ td div {
 .clasesVarias p {
     font-size: 15px;
 }
+.contactanos {
+    background: url(../img/shoes_1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 535px;
+}
+.contactanos h2 {
+    color: #18235f;
+    font-weight: bold;
+    margin: 70px 0 0 60px;
+}
+.contactanos form {
+    width: 50%;
+    padding: 10px 0 10px 60px;
+}
+.contactanos input, textarea {
+    display: inline-block;
+    width: 100%;
+    padding: 5px 0 5px 40px;
+}
+.contactanos textarea {
+    min-width: 100%;
+    max-width: 100%;
