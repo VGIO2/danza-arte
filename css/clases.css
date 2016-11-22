@@ -1,44 +1,46 @@
 
-/* Inserta tu codigo aqui */
-*{
-font-family: 'Clarendon Lt BT', fantasy;
-border: 2px solid;
-font-family: sans-serif;
-box-sizing: border-box;
-}
-.titulo
-{
-	text-align: center;
-}
-.menu
-{
-	display: inline-block;
-	margin: 0px;
-	padding:0px;
 
+header{
+    text-align: center;
+}
+header h1{
+    color: #154360;
+    font-weight: bold;
+}
+header ul{
+    list-style: none;
+}
+header ul li{
+    display: inline-block;
+    padding: 5px 70px 5px 2px; 
+}
+header ul li a{
+    color: #B2BABB;
+    font-size: 18px;
+}
+h2
+{font-weight: bold;
+ color: #17202A;   
 }
 .oferta
+{ 
+    background-color:#EBF5FB;
+text-align: center;
+font-weight: bold; }
+.bailes
 {
-	text-align: center;
-}
 
-.container
-{
 	display: inline-block;
-	width: 700px;
-	height: 1000px;
-	background-color:0xFF525659;
-
-
- }
-.row
-{
-	display: inline-block;
-	width: 700%;
-
+    background-color: #EBF5FB;
 }
-
 .texto
 {
-	text-align: center;
+    color: #F0F3F4;
+    background: rgba(0, 0, 0, 0.3);
+    width: 38%;
+    position: relative;
+    top: -200px;
+    padding: 10px 10px -15px 10px;
+    left: 85px;
 }
+
