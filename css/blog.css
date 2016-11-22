@@ -1,1 +1,64 @@
-/* Inserta tu codigo aqui */
+
+/*------------------------------------------------------------HEADER*/
+body{
+    font-family: 'Montserrat';
+}
+header{
+    text-align: center;
+}
+header h1{
+    color: #20274b;
+    font-weight: bold;
+}
+header ul{
+    list-style: none;
+}
+header ul li{
+    display: inline-block;
+    padding: 5px 70px 5px 2px; 
+}
+header ul li a{
+    color: #e6e4e4;
+    font-size: 16px;
+}
+/*---------------------------------------------------------BLOG TITLE*/
+section {
+	background: #f4f4f4;
+	width: 100% }
+
+section h3 {
+	margin-left: 580px;
+	padding-top: 60px; }
+
+section .fondo {
+	background-color: #dcdddf;
+	border-left: 60px solid #dcdddf;
+	border-right: 10px solid #dcdddf;
+	width: 90%;
+	margin-top: 50px;
+	margin-right: 70px;
+}
+
+
+section .titulo {
+	color: #191a1c;
+	padding-top: 40px; }
+
+section .date {
+	color: #c6c7c9;
+}
+
+section span {
+	color: #525659; }
+
+section button 
+	{font-size:15px;
+    color:#c7c8ca;
+    background:#182750;
+    border-radius:5px;
+    width:180px;
+    height:38px;
+    margin-top: 15px;
+    margin-bottom: 15px; }
+
+/*-------------------------------------------------------------FOOTER*/
