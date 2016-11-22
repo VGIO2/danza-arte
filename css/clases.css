@@ -4,43 +4,83 @@ header{
     text-align: center;
 }
 header h1{
-    color: #154360;
+    color: #A6ACAF;
     font-weight: bold;
 }
 header ul{
     list-style: none;
 }
-header ul li{
+/* CSS SECTION */
+.container{
+    width: 10px;
+    height: 10px;
     display: inline-block;
-    padding: 5px 70px 5px 2px; 
 }
-header ul li a{
-    color: #B2BABB;
-    font-size: 18px;
+.clasesVarias {
+    background-image: url(../img/old_wall.png);
+    background-repeat: repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+    
 }
-h2
-{font-weight: bold;
- color: #17202A;   
+.clasesVarias h1 {
+    text-align: center;
+    margin: 60px auto 10px auto;
+    font-size: 30px;  
 }
-.oferta
-{ 
-    background-color:#EBF5FB;
-text-align: center;
-font-weight: bold; }
-.bailes
-{
+.clasesVarias td {
+    padding: 150px 15px;
+    width: auto;
+    height: 200px;
+    margin: 20px;
+    
+}
+.clase1{
+    background-image: url(../img/dance_12.jpg);
+    background-size:cover;
+    border-right: 20px solid white ;
+    border-bottom: 20px solid white;
+}
+.clase2 {
+    background-image: url(../img/breakdance.jpg);
+    background-size :cover;
+     border-right: 20px solid white ;
+     border-bottom: 20px solid white;
 
-	display: inline-block;
-    background-color: #EBF5FB;
 }
-.texto
-{
-    color: #F0F3F4;
-    background: rgba(0, 0, 0, 0.3);
-    width: 38%;
-    position: relative;
-    top: -200px;
-    padding: 10px 10px -15px 10px;
-    left: 85px;
+.clase3 {
+    background-image: url(../img/lirical-jazz.jpg);
+    background-size: cover;
+     border-right: 20px solid white ;
+     border-bottom: 20px solid white;
 }
-
+.clase4 {
+    background-image: url(../img/arabe.jpg);
+    background-size: cover;
+     border-right: 20px solid white ;
+}
+.clase5{
+    background-image: url(../img/little.jpg);
+    background-size: cover;
+     border-right: 20px solid white ;
+}
+.clase6 {
+    background-image: url(../img/yoga.jpg);
+    background-size: cover;
+     border-right: 20px solid white ;
+}
+td div {
+    padding: 20px 15px;
+    text-align: center;
+    margin: 5px auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px auto 50px auto;
+}
+.clasesVarias h2 {
+    font-size: 20px;
+}
+.clasesVarias p {
+    font-size: 15px;
+}
