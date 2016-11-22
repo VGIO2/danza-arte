@@ -77,10 +77,58 @@ header ul li a{
 	margin-right: auto;
 	margin-left: auto; }
 
-.ins-1 {
-	height: 180px;
-	border: 1px solid red;
-}
+.profe1 {
+	background-image: url("../img/profesor_4.jpg");
+	height: 176px;
+	background-size: cover;
+	border-right: 9px solid white;
+	margin-bottom: 130px; }
+
+.profe2 {
+	background-image: url("../img/profesor_14.jpg");
+	height: 176px;
+	background-size: cover;
+	border-left: 9px solid white; }
+
+.profe3 {
+	background-image: url("../img/profesor_1.jpg");
+	height: 176px;
+	background-size: cover;
+	border-left: 16px solid white;
+	border-right: 9px solid white; }
+
+.profe4 {
+	background-image: url("../img/profesor_10.jpg");
+	height: 176px;
+	background-size: cover;
+	border-left: 9px solid white; }
+
+.profe5 {
+	background-image: url("../img/profesor_11.jpg");
+	height: 176px;
+	background-size: cover;
+	border-right: 9px solid white;
+	margin-bottom: 60px; }
+
+.profe6 {
+	background-image: url("../img/profesor_12.jpg");
+	height: 176px;
+	background-size: cover;
+	border-left: 9px solid white; }
+
+.profe7 {
+	background-image: url("../img/profesor_9.jpg");
+	height: 176px;
+	background-size: cover;
+	border-left: 16px solid white;
+	border-right: 9px solid white; }
+
+.profe8 {
+	background-image: url("../img/profesor_15.jpg");
+	height: 176px;
+	background-size: cover;
+	border-left: 9px solid white; }
+
 
 .instructores h3 {
 	text-align: center;
@@ -88,25 +136,22 @@ header ul li a{
 	margin-top: 60px;
 	padding-bottom: 60px; }
 
-.img-responsive {
-	width: 100%; }
-
 .instructores h4 {
-	padding-top: 10px;
-}
+	padding-top: 180px; }
+
+
 
 /*-------------------------------------------------FRASE INSPIRADORA*/
 
 .Frase {
 	width: 100%;
 	height: 250px;
+	margin-top: 100px;
 	background-image: url("../img/cubes.png"); }
 
 .Frase h2 {
 	padding-left: 90px;
-	padding-top: 70px;
-
-}
+	padding-top: 70px;  }
 
 
 
