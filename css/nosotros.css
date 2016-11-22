@@ -77,6 +77,11 @@ header ul li a{
 	margin-right: auto;
 	margin-left: auto; }
 
+.ins-1 {
+	height: 180px;
+	border: 1px solid red;
+}
+
 .instructores h3 {
 	text-align: center;
 	font-size: 30px;
@@ -90,13 +95,18 @@ header ul li a{
 	padding-top: 10px;
 }
 
-
 /*-------------------------------------------------FRASE INSPIRADORA*/
 
 .Frase {
 	width: 100%;
 	height: 250px;
 	background-image: url("../img/cubes.png"); }
+
+.Frase h2 {
+	padding-left: 90px;
+	padding-top: 70px;
+
+}
 
 
 
