@@ -30,26 +30,49 @@ section h3 {
 	margin-left: 580px;
 	padding-top: 60px; }
 
+section .blog1 {
+	background-color: #dcdddf;
+	background-image: url("../img/blog1.jpg");
+	background-size: cover;
+	height: 220px;
+	width: 230px;
+	margin-left: 15px; }
+
+section .blog2 {
+	background-image: url("../img/profesor_5.jpg");
+	background-size: cover;
+	height: 220px;
+	width: 230px;
+	margin-left: 15px; }
+
+section .blog3 {
+	background-image: url("../img/instructor_1.jpg");
+	background-size: cover;
+	height: 220px;
+	width: 230px;
+	margin-left: 15px; }
+
+
 section .fondo {
 	background-color: #dcdddf;
-	border-left: 60px solid #dcdddf;
-	border-right: 10px solid #dcdddf;
-	width: 90%;
-	margin-top: 50px;
-	margin-right: 70px;
-}
-
+	border-bottom: 50px solid #f4f4f4;
+	border-left: 100px solid #f4f4f4;
+	border-right: 60px solid #f4f4f4; }
 
 section .titulo {
 	color: #191a1c;
-	padding-top: 40px; }
+	padding-top: 30px;
+	padding-left: 50px; }
 
 section .date {
 	color: #c6c7c9;
+	padding-left: 50px;
 }
 
 section span {
-	color: #525659; }
+	color: #525659;
+	position: relative;
+	left: 50px; }
 
 section button 
 	{font-size:15px;
@@ -58,7 +81,16 @@ section button
     border-radius:5px;
     width:180px;
     height:38px;
-    margin-top: 15px;
-    margin-bottom: 15px; }
+    margin-top: 15px; 
+margin-left: 50px;
+position: relative;
+bottom: 8px;}
 
 /*-------------------------------------------------------------FOOTER*/
+footer {
+    background: #18235f;
+    padding: 20px 0 7px 0 ;
+}
+footer small {
+    color: #fff;
+}

@@ -1,1 +1,31 @@
-/* Inserta tu codigo que es común para todas las páginas aqui */
+/*------------------------------------------------------------HEADER*/
+body{
+    font-family: 'Montserrat';
+}
+header{
+    text-align: center;
+}
+header h1{
+    color: #20274b;
+    font-weight: bold;
+}
+header ul{
+    list-style: none;
+}
+header ul li{
+    display: inline-block;
+    padding: 5px 70px 5px 2px; 
+}
+header ul li a{
+    color: #e6e4e4;
+    font-size: 16px;
+}
+
+/*------------------------FOOTER*/
+footer {
+    background: #18235f;
+    padding: 20px 0 7px 0 ;
+}
+footer small {
+    color: #fff;
+}
