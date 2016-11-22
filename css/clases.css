@@ -48,7 +48,7 @@ header .lista:hover{
     padding: 150px 15px;
     width: auto;
     height: 200px;
-    margin: 20px;
+    margin: 20px ;
     
 }
 .clase1{
@@ -99,8 +99,11 @@ td div {
 .clasesVarias p {
     font-size: 15px;
 }
+<<<<<<< HEAD
 
 /*---------------------------------------------------------------------- CONTACTANOS--*/
+=======
+>>>>>>> 02e538533df5dd51ed0d58e10ed0cd4b7b076f53
 .contactanos {
     background: url(../img/shoes_1.jpg);
     background-repeat: no-repeat;
@@ -123,6 +126,7 @@ td div {
 }
 .contactanos textarea {
     min-width: 100%;
+<<<<<<< HEAD
     max-width: 100%;
     height: 100px;
 }
@@ -154,3 +158,6 @@ footer {
 footer small {
     color: #fff;
 }
+=======
+    max-width: 100%;
+>>>>>>> 02e538533df5dd51ed0d58e10ed0cd4b7b076f53
