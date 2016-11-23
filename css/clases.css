@@ -1,7 +1,7 @@
-/*---------------------------------------------------------------------------------HEADER-----*/
 body{
     font-family: 'Montserrat';
 }
+/*---------------------------------------------------------------------------------HEADER-----*/
 header{
     text-align: center;
 }
@@ -21,10 +21,7 @@ header ul li a{
     color: #e6e4e4;
     font-size: 16px;
 }
-header .lista:hover{
-    background-color: #eaf0f4;
-    padding: 10px;
-}
+
 /* -------------------------------------------------------------------------------CSS SECTION */
 .container{
     width: 10px;
@@ -36,20 +33,18 @@ header .lista:hover{
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
-    padding: 20px;
-    
 }
 .clasesVarias h1 {
     text-align: center;
     margin: 40px auto 30px auto;
-    font-size: 25px;  
+    font-size: 25px; 
+    padding: 10px;
 }
 .clasesVarias td {
     padding: 150px 15px;
     width: auto;
     height: 200px;
     margin: 20px ;
-    
 }
 .clase1{
     background-image: url(../img/dance_12.jpg);
@@ -62,7 +57,6 @@ header .lista:hover{
     background-size :cover;
      border-right: 20px solid white ;
      border-bottom: 20px solid white;
-
 }
 .clase3 {
     background-image: url(../img/lirical-jazz.jpg);
@@ -99,11 +93,8 @@ td div {
 .clasesVarias p {
     font-size: 15px;
 }
-<<<<<<< HEAD
 
 /*---------------------------------------------------------------------- CONTACTANOS--*/
-=======
->>>>>>> 02e538533df5dd51ed0d58e10ed0cd4b7b076f53
 .contactanos {
     background: url(../img/shoes_1.jpg);
     background-repeat: no-repeat;

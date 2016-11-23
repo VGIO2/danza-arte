@@ -20,11 +20,6 @@ header ul li a{
     color: #e6e4e4;
     font-size: 16px;
 }
-header .lista:hover{
-    background-color: #eaf0f4;
-    padding: 10px;
-    text-decoration: none;
-}
 /*-------------------------------------------------------------FOOTER*/
 footer {
     background: #18235f;
